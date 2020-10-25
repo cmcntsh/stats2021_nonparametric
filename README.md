@@ -30,3 +30,7 @@ Selecting statistical tests depends a lot on the levels of measurement of the va
 * Chi-square test of association (6 min): https://www.youtube.com/watch?v=vsrj647Tb3g
 * McNemar test (5 min): https://www.youtube.com/watch?v=W_y6EiF8mPA&list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn&index=49
 * Kruskal-Wallis test (6 min): https://www.youtube.com/watch?v=qfs6T311_88&list=PLkk92zzyru5OAtc_ItUubaSSq6S_TGfRn&index=35
+
+## Statistics in the Literature
+
+* Chi-square test of association (Fisher's exact test): https://www.sciencedirect.com/science/article/pii/S0960076020302764
