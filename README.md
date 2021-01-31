@@ -1,5 +1,7 @@
 # Nonparametric tests
 
+This is part of a set of pages on statistics. https://github.com/cmcntsh/stats2021_topics
+
 Selecting statistical tests depends a lot on the levels of measurement of the variables of interest and the distributional assumptions of the tests. Before we look at much else we'll look at tests which have fewer distributional assumptions than other statistical tests. These tests are called nonparametric tests. Robust methods are increasingly used instead of nonparametric tests, but you'll still see nonparametric tests used because they're simpler to implement than some robust methods.
 
 ## Exercises
